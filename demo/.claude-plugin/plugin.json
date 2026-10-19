@@ -1,0 +1,8 @@
+{
+  "name": "devservers-demo",
+  "version": "0.1.0",
+  "description": "A made-up Mac for recording devservers: answers its process, HOME and store calls with ana's projects, so no real folder shows and no real total changes",
+  "author": {
+    "name": "Alvaro Gallego"
+  }
+}

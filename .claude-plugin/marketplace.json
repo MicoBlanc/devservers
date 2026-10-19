@@ -1,0 +1,13 @@
+{
+  "name": "devservers",
+  "description": "devservers: see and stop the dev servers left running on your Mac, from Claude Code",
+  "owner": {
+    "name": "Alvaro Gallego"
+  },
+  "plugins": [
+    {
+      "name": "devservers",
+      "source": "./"
+    }
+  ]
+}

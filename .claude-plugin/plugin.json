@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "devservers",
+  "version": "0.2.0",
+  "description": "/devservers: every dev server on your Mac, what started it, its memory and last use, and a way to stop the ones you forgot",
+  "author": {
+    "name": "Alvaro Gallego",
+    "email": "imalvarogallego@gmail.com"
+  },
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "dev server",
+    "memory",
+    "next.js",
+    "vite",
+    "macos",
+    "orphaned processes"
+  ]
+}
